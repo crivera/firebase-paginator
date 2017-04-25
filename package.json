@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/deltaepsilon/firebase-paginator",
   "dependencies": {
-    "axios": "^0.13.1"
   },
   "devDependencies": {
     "tape": "^4.6.0",
